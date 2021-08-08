@@ -1,2 +1,2 @@
 # notes
-study notes, build knowledge system.
+Take some study notes.
